@@ -42,7 +42,7 @@ The purpose of this project is to analyze Seattle's real estate market by cleani
 ## Usage
 
 1. **Clone the Repository**: Clone this repository to your local machine using the following command:
-git clone https://github.com/ibrahimsaber1/Seattle-real-estate-analysis.git
+  git clone https://github.com/ibrahimsaber1/Seattle-real-estate-analysis.git
 
 
 2. **Execute SQL Scripts**: Execute the SQL scripts provided in the repository on your SQL database containing the Seattle real estate dataset.
@@ -55,9 +55,9 @@ Contributions to improve and extend the data cleaning process are welcome. Feel 
 
 ## Tableau Dashboard
 
-- **Tableau File**: The Tableau dashboard file (AriBnB Full Project.twbx) is included in the repository.
+- **Tableau File**: The Tableau dashboard file ![AriBnB Full Project.twbx](https://github.com/ibrahimsaber1/Seattle-real-estate-analysis/blob/main/AriBnB%20Full%20Project.twbx)is included in the repository.
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](https://github.com/ibrahimsaber1/Seattle-real-estate-analysis/blob/main/License.md).
 
